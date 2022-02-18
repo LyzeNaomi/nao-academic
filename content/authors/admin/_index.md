@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lyse Naomi Wamba M.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Researcher in Machine learning applied to Healthcare
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: KU Leuven
+  url: https://www.kuleuven.be/kuleuven/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Lyse Naomi is...
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Healthcare
+- Statistics
 
 # Education to show in About widget
 education:
